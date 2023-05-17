@@ -1,0 +1,34 @@
+_repo: Catalogue-of-valuable-paintings-and-water-colors-mostly-of-the-modern-Dutch-school-forming-th__70649
+_version: 0.0.1
+creator:
+  author:
+    agent_name: American Art Association
+    alias: Association, American Art
+    gutenberg_agent_id: '55844'
+    url: http://www.gutenberg.org/2009/agents/55844
+    wikipedia: https://en.wikipedia.org/wiki/American_Art_Association
+description: ''
+gutenberg_issued: '2023-04-27'
+identifiers:
+  gutenberg: '70649'
+language: en
+pgterms:marc905: 20220422191617listed
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Alan and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bAmerican Art Association, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Healy, A. Augustus (Aaron Augustus), 1850-1921 -- Art collections -- Catalogs'
+- !lcsh 'Art -- Private collections'
+- !lcsh 'Auction catalogs'
+- !lcc 'ND'
+- GITenberg
+title: 'Catalogue of valuable paintings and water colors mostly of the modern Dutch
+  school, forming the private collection of A. Augustus Healy, Esq., Brooklyn : $b
+  to be disposed of at unrestricted public sale ... February 15 [1907] at Mendelssohn
+  Hall'
+url: http://www.gutenberg.org/ebooks/70649
