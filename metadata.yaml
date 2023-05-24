@@ -1,5 +1,8 @@
 _repo: Catalogue-of-valuable-paintings-and-water-colors-mostly-of-the-modern-Dutch-school-forming-th__70649
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70649-h/images/cover.jpg
 creator:
   author:
     agent_name: American Art Association
@@ -8,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55844
     wikipedia: https://en.wikipedia.org/wiki/American_Art_Association
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70649#Catalogue-of-valuable-paintings-and-water-colors-mostly-of-the-modern-Dutch-school-forming-th_
 gutenberg_issued: '2023-04-27'
 identifiers:
   gutenberg: '70649'
